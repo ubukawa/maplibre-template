@@ -1,0 +1,24 @@
+{
+  "name": "maplibre-template",
+  "version": "1.0.0",
+  "description": "template for maplibre (my first try)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubukawa/maplibre-template.git"
+  },
+  "keywords": [],
+  "author": "Taro Ubukawa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ubukawa/maplibre-template/issues"
+  },
+  "homepage": "https://github.com/ubukawa/maplibre-template#readme",
+  "devDependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
